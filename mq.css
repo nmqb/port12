@@ -170,21 +170,14 @@
         width: 80%;
         line-height: 20px;
     }
-    .skills1 {
+    .techskills {
         border-left: none;
-        font-size: 14px;
-        
+        font-size: 14px; 
     }
 
-    .skills {
+    .otherskills {
         border-left: none;
         font-size: 14px;
-        padding-right: 0px;
-    }
-
-    .photo img {
-        width: 200px;
-        height: auto;
     }
 
     .recentwork {
@@ -207,5 +200,9 @@
 
     .workdescription {
         width: 75%;
+    }
+
+    .navigationpane {
+        padding-top: 10%;
     }
 }
